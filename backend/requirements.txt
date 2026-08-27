@@ -1,0 +1,6 @@
+fastapi                 # descargamos la libreria fastapi
+uvicorn[standard]       # descargamos la libreria uvicorn
+sqlalchemy              # descargamos la libreria sqlalchemy
+psycopg[binary]         # descargamos la libreria psycopg
+pydantic[email]         # descargamos la libreria pydantic
+python-dotenv           # descargamos la libreria python-dotenv
